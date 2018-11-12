@@ -1,7 +1,3 @@
-# project3
-
-<img src="client\src\images\OnTapLogoUpdated.png" alt="On Tapp">
-
 ## Deployed Site
 https://ontapp.herokuapp.com/
 
